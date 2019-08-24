@@ -1,0 +1,5 @@
+/plugins/*
+!/plugins/acc_mention.py
+killsshd.py
+__pycache__/
+.DS_Store
